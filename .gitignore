@@ -1,6 +1,7 @@
 # ignore data and powerpoint files
 data/
 slides/*.pptx
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
